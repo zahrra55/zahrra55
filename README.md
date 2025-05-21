@@ -8,29 +8,11 @@
 
 ## 👩‍💻 About Me
 
-```typescript
-const zahra = {
-    pronouns: "She" | "Her",
-    title: "Computer Scientist",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        misc: ["Git", "Linux", "REST APIs", "GraphQL"]
-    },
-    currentFocus: "Full Stack Development & Cloud Architecture",
-    funFact: "I can debug code in my dreams! 💭"
-};
-```
+Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creativity with code to build impactful solutions. I thrive in full stack development and cloud architecture, and I love exploring new technologies, from React and Node.js to Docker and Kubernetes. Whether it's crafting beautiful frontends, architecting robust backends, or automating workflows in the cloud, I enjoy every step of the journey.  
+<br>
+When I'm not coding, you might find me debugging in my dreams or sharing nerdy jokes. My mission? To turn ideas into reality, one line of code at a time!  
+<br>
+**Fun fact:** I can debug code in my dreams! 💭
 
 ## 🛠️ Tech Stack
 
