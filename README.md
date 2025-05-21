@@ -8,11 +8,7 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creativity with code to build impactful solutions. I thrive in full stack development and cloud architecture, and I love exploring new technologies, from React and Node.js to Docker and Kubernetes. Whether it's crafting beautiful frontends, architecting robust backends, or automating workflows in the cloud, I enjoy every step of the journey.  
-<br>
-When I'm not coding, you might find me debugging in my dreams or sharing nerdy jokes. My mission? To turn ideas into reality, one line of code at a time!  
-<br>
-**Fun fact:** I can debug code in my dreams! 💭
+Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creativity with code to build impactful solutions. I love exploring new technologies, solving challenging problems, and continuously learning in the ever-evolving world of software. Whether it's designing algorithms, building applications, or diving into new programming languages, I enjoy every step of the journey. 
 
 ## 🛠️ Tech Stack
 
