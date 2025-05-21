@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Zahrra+%F0%9F%92%BB;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Zahra+%F0%9F%92%BB;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zahrra55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 ```typescript
-const zahrra = {
-    pronouns: "He" | "Him",
+const zahra = {
+    pronouns: "She" | "Her",
+    title: "Computer Scientist",
     code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
     technologies: {
         frontEnd: {
@@ -64,11 +65,11 @@ const zahrra = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/zahrra55/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahrra55&repo=project1&theme=radical" />
+  <a href="https://github.com/zahrra55/security-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahrra55&repo=security-analyzer&theme=radical" />
   </a>
-  <a href="https://github.com/zahrra55/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahrra55&repo=project2&theme=radical" />
+  <a href="https://github.com/zahrra55/Solar_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahrra55&repo=Solar_system&theme=radical" />
   </a>
 </div>
 
@@ -85,13 +86,13 @@ const zahrra = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/zahraa-ibrahim-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://instagram.com/luffy.5.5">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:zahraa.i.alqurayshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
