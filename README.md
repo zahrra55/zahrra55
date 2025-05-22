@@ -45,17 +45,6 @@ Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creati
   <img src="https://github-profile-trophy.vercel.app/?username=zahrra55&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/zahrra55/security-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahrra55&repo=security-analyzer&theme=radical" />
-  </a>
-  <a href="https://github.com/zahrra55/Solar_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahrra55&repo=Solar_system&theme=radical" />
-  </a>
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
