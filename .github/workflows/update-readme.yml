@@ -1,25 +1,25 @@
-name: Update README with Recent Activity
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
-  workflow_dispatch:  # Allows manual triggering
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Update README with Recent Activity
-        uses: Readme-Workflows/recent-activity@main
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MSG: "docs: update recent activity"
-          MAX_LINES: 7
-          README_PATH: ./README.md
-          SECTION_HEADER: "🔄 Recent Activity"
-          SECTION_START: "<!--START_SECTION:activity-->"
-          SECTION_END: "<!--END_SECTION:activity-->" 
+#name: Update README with Recent Activity
+#
+#on:
+#  schedule:
+#    - cron: '0 0 * * *'  # Runs at 00:00 UTC #every day
+#  workflow_dispatch:  # Allows manual triggering
+#
+#jobs:
+#  update-readme:
+#    runs-on: ubuntu-latest
+#    permissions:
+#      contents: write
+#    steps:
+#      - uses: actions/checkout@v3
+#      
+#      - name: Update README with Recent Activity
+#        uses: #Readme-Workflows/recent-activity@main
+#        env:
+#          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#          COMMIT_MSG: "docs: update recent #activity"
+#          MAX_LINES: 7
+#          README_PATH: ./README.md
+#          SECTION_HEADER: "🔄 Recent Activity"
+#          SECTION_START: #"<!--START_SECTION:activity-->"
+#          SECTION_END: #"<!--END_SECTION:activity-->" 
