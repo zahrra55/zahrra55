@@ -5,11 +5,11 @@
 <br>
 
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creativity with code to build impactful solutions. I love exploring new technologies, solving challenging problems, and continuously learning in the ever-evolving world of software. Whether it's designing algorithms, building applications, or diving into new programming languages, I enjoy every step of the journey. 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -29,7 +29,7 @@ Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creati
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zahrra55&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -39,24 +39,21 @@ Hi, I'm **Zahra** — a passionate Computer Scientist from Iraq, blending creati
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrra55&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
+<!--
 ## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zahrra55&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
 ## 📈 Activity Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahrra55&theme=radical" alt="Activity Graph" />
 </div>
-
-## 💭 Favorite Quote
+-->
+##  Favourite Quote
 
 > "The best way to predict the future is to implement it yourself." - David Heinemeier Hansson
 
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zahraa-ibrahim-/">
